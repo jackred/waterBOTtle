@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jackred/waterBOTtle%24/issues"
   },
-  "homepage": "https://github.com/jackred/waterBOTtle%24#readme"
+  "homepage": "https://github.com/jackred/waterBOTtle%24#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.8.0"
+  }
 }
